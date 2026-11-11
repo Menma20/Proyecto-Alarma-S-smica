@@ -1,0 +1,7 @@
+[
+  "tests/test_alarm_system.py::test_t01_comparator_exhaustive",
+  "tests/test_alarm_system.py::test_t02_sevenseg_exhaustive",
+  "tests/test_alarm_system.py::test_t03_countdown_timer",
+  "tests/test_alarm_system.py::test_t04_alarm_fsm_sequence",
+  "tests/test_alarm_system.py::test_t05_top_integration"
+]
